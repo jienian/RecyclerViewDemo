@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "RecyclerViewDemo"
 include ':app'
+include ':recyclerviewtechdemo'
