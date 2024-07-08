@@ -65,7 +65,7 @@ class MyAdapter(items: List<Item?>) : RecyclerView.Adapter<RecyclerView.ViewHold
                 return TypeEightViewHolder(view)
             }
 
-            else -> throw IllegalArgumentException("Invalid view type")
+            else -> throw IllegalArgumentException("无效视图类型")
         }
     }
 

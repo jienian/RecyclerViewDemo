@@ -49,7 +49,7 @@ class MainActivity : AppCompatActivity() {
             }
 
             override fun onSwiped(viewHolder: RecyclerView.ViewHolder, direction: Int) {
-                // Not needed for this implementation
+                //不需要编写
             }
         })
 
